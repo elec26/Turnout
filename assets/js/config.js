@@ -5,5 +5,5 @@ window.SITE_CONFIG = {
   votersMode: "auto",
   electionDate: "2026-09-23",
   openingTime: "08:00",
-  closingTime: "19:00"
+  closingTime: "20:00"
 };
