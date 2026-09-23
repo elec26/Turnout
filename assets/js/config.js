@@ -1,6 +1,6 @@
 /* PARAMÈTRES PRINCIPAUX — modifiez ces valeurs si nécessaire. */
 window.SITE_CONFIG = {
-  participationRate: 11.34,
+  participationRate: 12.50,
   inscrits: 15801162,
   votersMode: "auto",
   electionDate: "2026-09-23",
